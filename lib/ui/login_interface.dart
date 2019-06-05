@@ -16,7 +16,7 @@ class _LoginUiState extends State<LoginUi> {
   final _textControllerpass = TextEditingController();
   bool _validateLogin = false;
   bool _validatePass = false;
-  String _animationName = "idle";
+  // String _animationName = "idle";
   @override
   Widget build(BuildContext context) {
     return Scaffold(

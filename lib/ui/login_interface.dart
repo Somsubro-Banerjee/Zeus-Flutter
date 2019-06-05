@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:zeus/ui/Sign_up.dart';
 import 'dart:ui';
 import 'Home.dart';
-import 'package:flare_flutter/flare.dart';
-import 'package:flare_dart/actor_artboard.dart';
-import 'package:flare_flutter/flare_actor.dart';
 
 class LoginUi extends StatefulWidget {
   @override

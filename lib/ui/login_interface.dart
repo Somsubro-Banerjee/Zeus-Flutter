@@ -37,7 +37,7 @@ class _LoginUiState extends State<LoginUi> {
           ),  
           new Container(
             margin: EdgeInsets.fromLTRB(110, 200, 0.0, 0.0),
-            child: new Text("Login for awesomeness!!",
+            child: new Text("Login for awesomeness Right now !!",
             style: new TextStyle(
 
               letterSpacing: 5,
